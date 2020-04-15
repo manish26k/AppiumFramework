@@ -1,0 +1,5 @@
+00:18:54.857 [main] INFO  androidCapabilities.androidCapabilities2 - Android Device setting gets intialized
+00:18:54.897 [main] INFO  androidCapabilities.androidCapabilities2 - Android driver get intialized null
+00:19:10.232 [main] INFO  androidCapabilities.androidCapabilities2 - Amazon Welcome Page SignIn Test Case
+00:19:10.250 [main] INFO  androidCapabilities.androidCapabilities2 - Click on SignInbutton
+00:19:11.415 [main] INFO  androidCapabilities.androidCapabilities2 - Login Page Test Case

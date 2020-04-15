@@ -1,0 +1,6 @@
+22:42:40.733 [main] INFO  androidCapabilities.androidCapabilities2 - Click on SignInbutton
+22:42:42.016 [main] INFO  androidCapabilities.androidCapabilities2 - Login Page Test Case
+22:42:42.017 [main] INFO  androidCapabilities.androidCapabilities2 - Valid Email and Password
+22:54:36.685 [main] INFO  androidCapabilities.androidCapabilities2 - Config properties gets uploaded
+22:54:36.847 [main] INFO  androidCapabilities.androidCapabilities2 - Android Device setting gets intialized
+22:54:36.847 [main] INFO  androidCapabilities.androidCapabilities2 - Android driver get intialized null

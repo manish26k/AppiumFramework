@@ -1,0 +1,6 @@
+15:00:03.153 [main] INFO  androidCapabilities.androidCapabilities2 - Amazon Welcome Page SignIn Test Case
+15:00:03.180 [main] INFO  androidCapabilities.androidCapabilities2 - Click on SignInbutton
+15:00:05.368 [main] INFO  androidCapabilities.androidCapabilities2 - Login Page Test Case
+15:00:05.369 [main] INFO  androidCapabilities.androidCapabilities2 - Valid Email and Password
+23:04:55.427 [main] INFO  androidCapabilities.androidCapabilities2 - Config properties gets uploaded
+23:04:55.623 [main] INFO  androidCapabilities.androidCapabilities2 - Android Device setting gets intialized

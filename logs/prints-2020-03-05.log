@@ -1,0 +1,6 @@
+14:48:51.185 [main] INFO  androidCapabilities.androidCapabilities2 - Android driver get intialized
+14:49:07.087 [main] INFO  androidCapabilities.androidCapabilities2 - Welcome Page SignIn Test Case
+14:49:07.091 [main] INFO  androidCapabilities.androidCapabilities2 - Click on the SignIn button
+14:49:38.491 [main] INFO  androidCapabilities.androidCapabilities2 - Login Page Test Case
+15:19:16.947 [main] INFO  androidCapabilities.androidCapabilities2 - Config properties gets uploaded
+15:19:17.028 [main] INFO  androidCapabilities.androidCapabilities2 - Android Device setting gets intialized

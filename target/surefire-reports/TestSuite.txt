@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 4, Time elapsed: 12.133 sec <<< FAILURE! - in TestSuite
+methodLevelSetup(AmazonHydridFramework.Testcases.LoginPageTest)  Time elapsed: 11.797 sec  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-M6Q9KTFA', ip: '192.168.100.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: AndroidDriver
+Caused by: java.net.ConnectException: Connection refused: connect
+
