@@ -9,6 +9,7 @@
 
   <name>MobileFramework</name>
   <url>http://maven.apache.org</url>
+  <!---- demo hook------------>	
   
   <properties>  
        <environment>local</environment>
