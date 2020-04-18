@@ -9,7 +9,7 @@
 
   <name>MobileFramework</name>
   <url>http://maven.apache.org</url>
-  <!---- demo gitwebHOOK------------>	
+  <!---- demo WEBHOOK------------>	
   
   <properties>  
        <environment>local</environment>
